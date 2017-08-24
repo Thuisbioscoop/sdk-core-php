@@ -1,4 +1,8 @@
-# PayPal Core SDK - V1.5.4
+# PayPal Core SDK - V1.5.7
+
+## FORKED RELEASE
+- Backported fix for CURLOPT_SSL_CIPHER_LIST from https://github.com/paypal/sdk-core-php/pull/62/files (v2.5.8)
+
 
 ## POODLE UPDATE
 
